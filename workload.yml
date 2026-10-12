@@ -1,0 +1,16 @@
+workload:
+  environment: example-only
+  peak_concurrent_players: 80
+  backend_count: 2
+  view_distance: 8
+  simulation_distance: 6
+  plugins: []
+measurements:
+  mspt_p95: null
+  mspt_p99: null
+  heap_used_percent_peak: null
+  gc_pause_p99_ms: null
+  cpu_busy_percent_peak: null
+  disk_write_latency_p95_ms: null
+  tested_at_utc: null
+  status: replace-with-measured-data
